@@ -1,0 +1,7 @@
+body {
+  /* background-image: url(img/bgReg-galaxy.jpg); */
+  /* background-size: 100% 100%; */
+  background-repeat: no-repeat;
+  background: linear-gradient(#040d25, #1b132f);
+  height: 700px;
+}
